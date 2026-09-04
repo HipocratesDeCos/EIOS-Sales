@@ -1,0 +1,15 @@
+{
+  "parameter_set_id": "PENDIENTE_IDENTIFICADOR_UNICO",
+  "company_id": "PENDIENTE_IDENTIFICADOR_EMPRESA",
+  "version": "1.0",
+  "effective_from": "PENDIENTE_FECHA_HORA_UTC__AAAA-MM-DDTHH:MM:SSZ",
+  "approved_by": "PENDIENTE_NOMBRE_O_ID_RESPONSABLE_AUTORIZADO",
+  "parameters": {
+    "minimum_margin": "PENDIENTE_PORCENTAJE_MARGEN_MINIMO",
+    "target_margin": "PENDIENTE_PORCENTAJE_MARGEN_OBJETIVO",
+    "max_discount_without_approval": "PENDIENTE_PORCENTAJE_DESCUENTO_MAXIMO",
+    "target_payment_days": "PENDIENTE_DIAS_PAGO_OBJETIVO",
+    "maximum_payment_days": "PENDIENTE_DIAS_PAGO_MAXIMO",
+    "current_priority": "PENDIENTE_MARGIN_SALES_STOCK_LIQUIDITY_RISK_O_GROWTH"
+  }
+}
